@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @dayanaperg, a second year Computer science student at HIT
-- 🌱 I’ve experienced C, C++
-- 💞️ I’m looking to increase my knowledge
+
